@@ -4,7 +4,7 @@ setup(
     name='clean_folder',
     version='1.0',
     description='Simple file sorter',
-    url='http://github.com/dummy_user/useful',
+    url='https://github.com/IronWoodcutter/homework_mod_7/tree/main',
     author='Oleksandr Vlasov',
     license='MIT',
     packages=['clean_folder'],
